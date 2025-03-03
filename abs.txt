@@ -1,0 +1,2 @@
+this is tester
+this is game of life play by rules 
